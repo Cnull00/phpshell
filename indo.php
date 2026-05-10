@@ -2,7 +2,6 @@
 /*
  * NullCyber PHP Obfuscator Pro v3.0
  * Generated: 2026-05-11 00:26:41
- * Hash: c3d60b9641cbdc33
  * PHP 8.0+
  */
 
